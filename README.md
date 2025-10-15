@@ -51,3 +51,6 @@
 
 
 ## OUTPUT:
+
+<img width="832" height="1248" alt="Gemini_Generated_Image_u6a1bru6a1bru6a1" src="https://github.com/user-attachments/assets/1946f7a9-dc57-4a81-8977-f4d8c8d09248" />
+
